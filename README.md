@@ -18,7 +18,13 @@
 ![Hugging%20Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-### 📊 [Data Science](#-data-science)
+## Project List
+
+<div align="center">
+  <img src="visuals/stock-curves-demo.png" alt="Data Science Demo - Stock Curves" width="49%"/>
+</div>
+
+### 📊 [Data Science](#-data-science-overview)
 
 - **Finance**
   - [Multi-Asset Stock Forecasting](#multi-asset-stock-forecasting)
@@ -36,21 +42,25 @@
   - [Real Estate Price Estimator](#real-estate-price-estimator)
 
 
-### 🤖 [AI Engineering](#-ai-engineering)
+<div align="center">
+  <img src="visuals/ai-travel-demo.png" alt="AI Eng. Demo - Travel Agent" width="49%"/>
+</div>
+
+### 🤖 [AI Engineering](#-ai-engineering-overview)
 
 - [Japan Travel Planning Agent](#japan-travel-planning-agent)
 - [Philippine Eagle Research Agent](#philippine-eagle-rag-research-agent)
 - [Job Posting Analyzer](#job-posting-analyzer)
 
 
-### 🧠 [Deep Learning](#-deep-learning)
+### 🧠 [Deep Learning](#-deep-learning-overview)
 
 - **Computer Vision**
   - [MNIST Image Classification](#mnist-image-classification)
 
 ## Project Overviews
 
-### 📊 Data Science
+### 📊 Data Science <a name="data-science-overview"></a>
 
 Data projects involving data analysis and machine learning. Includes hypothesis testing, stastical inference, and more.
 
@@ -160,7 +170,7 @@ Data projects involving data analysis and machine learning. Includes hypothesis 
   - Classification, model evaluation, and feature importance for business decision-making
 
 
-### 🤖 AI Engineering
+### 🤖 AI Engineering <a name="ai-engineering-overview"></a>
 
 Projects focused on building **production-oriented AI agents**, with an emphasis on modular prompt engineering, robust agent workflows, API rate limiting, and more best industry practices.
 
@@ -211,7 +221,7 @@ Projects focused on building **production-oriented AI agents**, with an emphasis
   - LLM-powered job posting analysis and interview preparation assistant
   - Prompt engineering experimentation across multiple prompting strategies
 
-### 🧠 Deep Learning
+### 🧠 Deep Learning <a name="deep-learning-overview"></a>
 
 #### Computer Vision
 
