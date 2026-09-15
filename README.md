@@ -24,7 +24,7 @@
   <img src="visuals/stock-curves-demo.png" alt="Data Science Demo - Stock Curves" width="49%"/>
 </div>
 
-### 📊 [Data Science](#-data-science-overview)
+### 📊 [Data Science](#data-science-overview)
 
 - **Finance**
   - [Multi-Asset Stock Forecasting](#multi-asset-stock-forecasting)
@@ -46,14 +46,14 @@
   <img src="visuals/ai-travel-demo.png" alt="AI Eng. Demo - Travel Agent" width="49%"/>
 </div>
 
-### 🤖 [AI Engineering](#-ai-engineering-overview)
+### 🤖 [AI Engineering](#ai-engineering-overview)
 
 - [Japan Travel Planning Agent](#japan-travel-planning-agent)
 - [Philippine Eagle Research Agent](#philippine-eagle-rag-research-agent)
 - [Job Posting Analyzer](#job-posting-analyzer)
 
 
-### 🧠 [Deep Learning](#-deep-learning-overview)
+### 🧠 [Deep Learning](#deep-learning-overview)
 
 - **Computer Vision**
   - [MNIST Image Classification](#mnist-image-classification)
