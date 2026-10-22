@@ -32,6 +32,7 @@
 
 - **Health**
   - [Mental Health in Tech](#mental-health-in-tech-analysis)
+  - [Medical Survey Data Extractor](#medical-survey-data-extractor---cdc-nhanes)
 
 - **Business & Marketing**
   - [A/B Testing](#ab-testing-market-analysis)
@@ -107,6 +108,18 @@ Data projects involving data analysis and machine learning. Includes hypothesis 
 
   - Analysis of 5 years of mental health survey data in the technology industry to observe mental health trends across the decade
   - SQL-focused exploration of workplace benefits, perceptions, and mental health trends
+
+#### [**Medical Survey Data Extractor - CDC NHANES**](https://github.com/giddygarcia/medical-survey-data-extractor)
+
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+
+  **`Data Engineering, Database Sourcing, Joining, & Cleaning`**
+
+  - Sourcing, joining, and extracting medical healthcare survey data from the CDC's National Health and Nutrition Examination Survey (NHANES)
+  - Handpicked and carefully selects data from 11 questionnaire and codebook documents and 30 survey variables, focusing on the subject of stroke prediction and 11 other health conditions
+  - Produces a dataset of 6,000+ respondents with only 1.45% missing values.
 
 #### Business & Marketing
 
