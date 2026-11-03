@@ -29,7 +29,8 @@
 - **Finance**
   - [Multi-Asset Stock Forecasting](#multi-asset-stock-forecasting)
   - [RL NVDA Trading Agent](#rl-nvda-trading-agent)
-
+  - Credit Risk Modeling(#credit-risk-modeling)
+ 
 - **Health**
   - [Mental Health in Tech](#mental-health-in-tech-analysis)
   - [Medical Survey Data Extractor](#medical-survey-data-extractor---cdc-nhanes)
@@ -93,6 +94,24 @@ Data projects involving data analysis and machine learning. Includes hypothesis 
   - Integrates **unsupervised learning** and **reinforcement learning** into one end-to-end pipeline for exploring NVIDIA stock market regimes and developing a trading agent.
   - Uses K-Means clustering and PCA to identify market regimes and create a compact latent state representation for the trading environment.
   - Evaluates a REINFORCE policy-gradient agent against random-action vs. buy-and-hold baselines.
+
+#### **Credit Risk Modeling**
+
+  ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+  ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
+  ![Scikit--learn](https://img.shields.io/badge/Scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
+  ![LightGBM](https://img.shields.io/badge/LightGBM-2E8B57?logo=leaflet&logoColor=white)
+  ![XGBoost](https://img.shields.io/badge/XGBoost-189B45?logoColor=white)
+  ![CatBoost](https://img.shields.io/badge/CatBoost-FFCC00?logoColor=black)
+  ![SHAP](https://img.shields.io/badge/SHAP-8A2BE2?logoColor=white)
+
+`Binary Classification`, `Credit Risk Modeling`, `LightGBM`, `XGBoost`, `CatBoost`, `Hyperparameter Optimization`, `Optuna`, `SHAP`, `Imbalanced Learning`
+
+  - Develops a robust **binary classification pipeline** to predict loan defaults across a dataset of approximately 32,000 loan customers.
+  - Evaluates and compares Logistic Regression, Balanced Random Forest, LightGBM, XGBoost, and CatBoost, with Optuna-based hyperparameter optimization for the boosted models.
+  - Selects **LightGBM** as the final model, achieving **0.95 ROC-AUC** and **0.90 PR-AUC** on the held-out test set.
+  - Uses SHAP to interpret key variables contributing to loan default risk and understand individual model predictions.
+  - Ranks customers by predicted default probability to identify high-risk accounts and support proactive credit risk management.
 
 #### Health
 
