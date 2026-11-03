@@ -29,7 +29,7 @@
 - **Finance**
   - [Multi-Asset Stock Forecasting](#multi-asset-stock-forecasting)
   - [RL NVDA Trading Agent](#rl-nvda-trading-agent)
-  - Credit Risk Modeling(#credit-risk-modeling)
+  - [Credit Risk Analysis](#credit-risk-analysis)
  
 - **Health**
   - [Mental Health in Tech](#mental-health-in-tech-analysis)
@@ -95,7 +95,7 @@ Data projects involving data analysis and machine learning. Includes hypothesis 
   - Uses K-Means clustering and PCA to identify market regimes and create a compact latent state representation for the trading environment.
   - Evaluates a REINFORCE policy-gradient agent against random-action vs. buy-and-hold baselines.
 
-#### **Credit Risk Modeling**
+#### [Credit Risk Analysis](https://github.com/giddygarcia/credit-risk-analysis)
 
   ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
   ![Pandas](https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white)
